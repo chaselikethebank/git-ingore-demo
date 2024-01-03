@@ -1,2 +1,3 @@
 # git-ingore-demo
-.DS_Store
+
+I enjoy JavaScript because it utilizes both Functional programming and Object-oriented programming.
